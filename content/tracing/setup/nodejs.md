@@ -67,7 +67,7 @@ For details about how to how to toggle and configure plugins, check out the [API
 | :----------   | :---------- | :-------------- |
 | [express][8]  | 4           | Fully Supported |
 | [graphql][22] | 0.13        | Fully Supported |
-| [hapi][9]     | ^17.1       | Fully Supported |
+| [hapi][9]     | 2 - 17      | Fully Supported |
 | [koa][10]     | 2           | Fully Supported |
 | [restify][11] | 7           | Fully Supported |
 
